@@ -12,6 +12,8 @@ A meta é listar todas as comunidades, grupos e equipas angolanas de público ab
 
 ## Lista
 
+### Desenvolvedores
+
 Nome | Link | Descrição
 --- | --- | ---
 [Coach API + App](https://coach-api-app.slack.com) | https://coach-api-app.slack.com | Construa sua api + app do zero
