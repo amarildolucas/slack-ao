@@ -19,7 +19,7 @@ Nome | Link | Descrição
 
 ## Contribuições
 
-Contribuições e sugestões são bem-vindas e altamente encorajadas. 
+Contribuições e sugestões são bem-vindas ❤️ e altamente encorajadas. 
 
 
 
