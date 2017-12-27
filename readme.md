@@ -18,7 +18,7 @@ Nome | Link | Descrição
 --- | --- | ---
 [Coach API + App](https://coach-api-app.slack.com) | https://coach-api-app.slack.com | Construa sua api + app do zero
 [Coding Dojo Angola](https://codingdojoangola.slack.com) | https://codingdojoangola.now.sh | Conectando programadores à empresas de TI
-
+[AngoDev](http://slackin.angodev.com) | Comunidade de Programadores Angolanos
 
 ## Contribuições
 
